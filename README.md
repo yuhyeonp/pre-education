@@ -147,7 +147,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 <br/><br/>
 
 
-# [퀴즈 제출하기]  <br/>
+# [7. 퀴즈 제출하기]  <br/>
 ▶ 퀴즈를 풀고 encore-playdata의 repo에 pull request하기
 
 #### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다.
