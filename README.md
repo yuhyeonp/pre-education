@@ -6,8 +6,9 @@
 2. pycharm(IDE) 설치
 3. git 설치
 4. github 회원 가입
-5. github내 encore-playdata의 repository를 Clone하기
-6. 퀴즈를 풀고 최종적으로 pull request하기
+5. 퀴즈 가져오기 (encore-playdata의 repo를 내 계정으로 Clone하기)
+6. 퀴즈 변동사항 저장하기 (내 계정의 repo로 변동사항 push하기)
+7. 퀴즈 제출하기 (퀴즈를 모두 풀고 encore-playdata의 repo에 pull request하기)
 
 ##### 플레이데이터 깃허브에 pull request 해주시면 확인 후 업데이트 해드립니다.
 ##### 처음엔 git을 사용하는 방법이 생소하겠지만, 실무에서 꼭 필요한 도구이니 많이 사용해보시기 바랍니다.
@@ -18,7 +19,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 <br/><br/>
 
 
-# [퀴즈 가져오기] 
+# [5. 퀴즈 가져오기(encore-playdata의 repo를 내 계정으로 Clone하기)] 
 
 #### 1. Github 회원가입을 아직 하지 않은 분들은 우측 상단에서 회원가입을 먼저 해주세요. 
 <br/><br/>
@@ -62,9 +63,10 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
      <blockquote> git config --global user.email "내 이메일작성" </blockquote>
      <blockquote> git config --global user.name "내 이름작성" </blockquote>
 ![setting](images/setting.png)    
-<br/><br/>
+<br/><br/><br/>
 
-# [내 컴퓨터에서 github로 업로드하기]
+
+# [6. 퀴즈 변동사항 저장하기(내 계정의 repo로 변동사항 push하기)]
 
 #### 먼저 Git에 대해 간단히 알아보겠습니다.
 #### 깃은 아래와 같은 흐름으로 이루어져 있습니다.
@@ -140,8 +142,8 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 ![upload](images/upload.PNG)
 <br/>
 <br/>
-
-# [playdata로 Pull Request 요청하기 (퀴즈 답 제출하기)]
+<br/>
+# [퀴즈 제출하기 (퀴즈를 풀고 encore-playdata의 repo에 pull request하기)]
 
 #### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다.
 ![pull_request](images/pull_request.png)
