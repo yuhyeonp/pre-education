@@ -16,7 +16,7 @@
 
 ##### 🎈 Python설치 ~ Git설치(1~4번)은 아래 url을 참고해주세요<br/>
 https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
-<br/><br/>
+<br/><br/><br/><br/>
 
 
 # [5. 퀴즈 가져오기] <br/>
@@ -64,7 +64,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
      <blockquote> git config --global user.email "내 이메일작성" </blockquote>
      <blockquote> git config --global user.name "내 이름작성" </blockquote>
 ![setting](images/setting.png)    
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 
 # [6. 퀴즈 변동사항 저장하기] <br/> 
@@ -144,7 +144,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 ![upload](images/upload.PNG)
 <br/>
 <br/>
-<br/>
+<br/><br/>
 
 
 # [퀴즈 제출하기]  <br/>
