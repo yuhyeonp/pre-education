@@ -1,3 +1,4 @@
+@import "color-system.scss";
 ##### 안녕하세요 플레이데이터입니다😁
 ##### 플레이데이터 취업교육과정 수강생 여러분의 사전교육을 위한 repository(=repo)입니다.
 $gray-000:        #fafbfc !default;
