@@ -19,7 +19,8 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 <br/><br/>
 
 
-# [5. 퀴즈 가져오기] (encore-playdata의 repo를 내 계정으로 Clone하기)
+# [5. 퀴즈 가져오기] <br/>
+encore-playdata의 repo를 내 계정으로 Clone하기
 
 #### 1. Github 회원가입을 아직 하지 않은 분들은 우측 상단에서 회원가입을 먼저 해주세요. 
 <br/><br/>
@@ -66,7 +67,8 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 <br/><br/><br/>
 
 
-# [6. 퀴즈 변동사항 저장하기] (내 계정의 repo로 변동사항 push하기)
+# [6. 퀴즈 변동사항 저장하기] <br/> 
+내 계정의 repo로 변동사항 push하기
 
 #### 먼저 Git에 대해 간단히 알아보겠습니다.
 #### 깃은 아래와 같은 흐름으로 이루어져 있습니다.
@@ -145,7 +147,8 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 <br/>
 
 
-# [퀴즈 제출하기] (퀴즈를 풀고 encore-playdata의 repo에 pull request하기)
+# [퀴즈 제출하기]  <br/>
+퀴즈를 풀고 encore-playdata의 repo에 pull request하기
 
 #### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다.
 ![pull_request](images/pull_request.png)
