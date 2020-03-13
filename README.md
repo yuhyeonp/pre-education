@@ -12,7 +12,7 @@
 ##### 플레이데이터 깃허브에 pull request 해주시면 확인 후 업데이트 해드립니다.
 ##### 처음엔 git을 사용하는 방법이 생소하겠지만, 실무에서 꼭 필요한 도구이니 많이 사용해보시기 바랍니다.
 <br/>
-##### 🎈Python설치 ~ Git설치(1~4번)은 아래 url을 참고해주세요.
+##### Python설치 ~ Git설치(1~4번)은 아래 url을 참고해주세요🎈<br/>
 https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 <br/><br/>
 
