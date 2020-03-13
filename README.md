@@ -2,6 +2,19 @@
 ##### 플레이데이터 취업교육과정 수강생 여러분의 사전교육을 위한 repository(=repo)입니다.
 $gray-000:        #fafbfc !default;
 
+$grays: (
+  0: $gray-000,
+  1: $gray-100,
+  2: $gray-200,
+  3: $gray-300,
+  4: $gray-400,
+  5: $gray-500,
+  6: $gray-600,
+  7: $gray-700,
+  8: $gray-800,
+  9: $gray-900,
+) !default;
+
 ##### 진행 순서는 다음과 같습니다.
 1. python 설치
 2. pycharm(IDE) 설치
