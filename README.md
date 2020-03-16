@@ -55,7 +55,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 - 다섯번째, 복사된 폴더로 들어가기
      <blockquote> cd pre-education </blockquote>
 
-- 여섯번째, 이메일과 이름 설정하기
+- 여섯번째, 이메일과 이름 설정하기<br/>
      헷갈리지 않게 GitHub 계정에 사용한 계정명과 이메일을 사용해주세요.
      <blockquote> git config --global user.name "내 이름작성" </blockquote>
      <blockquote> git config --global user.email "내 이메일작성" </blockquote>
