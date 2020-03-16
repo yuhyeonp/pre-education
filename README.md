@@ -12,7 +12,7 @@
 
 #### 우선 아래 url을 참고해 1 ~ 4번 단계를 진행해주세요.
 https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
-<br/>
+<br/><br/>
 #### 5 ~ 7번 단계는 아래 설명을 따라 진행하면 됩니다. 
 <br/><br/>
 
