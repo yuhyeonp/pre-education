@@ -18,7 +18,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 
 
 # [5. 퀴즈 가져오기] <br/>
-▶ encore-playdata의 repo를 내 계정으로 fork하고 이후 로컬환경으로 clone하기
+### encore-playdata의 repo를 내 계정으로 fork하고 이후 로컬환경으로 clone하기
 
 #### 1. encore-playdata 계정의 pre-education repo로 이동한 후 우측상단의 'Fork' 버튼을 클릭해주세요.
 ![Fork](images/fork.PNG)
@@ -64,7 +64,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 
 
 # [6. repo에 변동사항 업데이트하기] <br/> 
-▶ 로컬환경의 변동사항을 내 계정의 repo로 push하기
+### 로컬환경의 변동사항을 내 계정의 repo로 push하기
 
 #### 먼저 Git에 대해 간단히 알아보겠습니다.
 #### 깃은 아래와 같은 흐름으로 이루어져 있습니다.
@@ -144,7 +144,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 
 
 # [7. 퀴즈 제출하기]  <br/>
-▶ 내 계정의 repo를 encore-playdata의 repo로 pull request하기 -> 퀴즈를 모두 풀고 진행하세요
+### 내 계정의 repo를 encore-playdata의 repo로 pull request하기 -> 퀴즈를 모두 풀고 진행하세요
 
 #### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다.
 ![pull_request](images/pull_request.png)
