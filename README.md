@@ -2,23 +2,23 @@
 
 #### 플레이데이터 취업교육과정 수강생 여러분의 사전교육을 위한 repository(=repo)입니다.
 #### 진행 순서는 다음과 같습니다.
-1. python 설치
-2. pycharm(IDE) 설치
+1. Python 설치
+2. PyCharm 설치(IDE)
 3. Git 설치
 4. GitHub 회원 가입
-5. 퀴즈 가져오기 (encore-playdata의 repo를 내 계정으로 clone하기)
-6. 퀴즈 변동사항 저장하기 (내 계정의 repo로 변동사항 push하기)
-7. 퀴즈 제출하기 (퀴즈를 모두 풀고 encore-playdata의 repo에 pull request하기)
+5. 퀴즈 가져오기 (encore-playdata의 repo를 내 계정으로 fork하고 이후 로컬환경으로 clone하기)
+6. 퀴즈 변동사항 저장하기 (변동사항을 내 계정의 repo로 push하기)
+7. 퀴즈 제출하기 (퀴즈를 모두 풀고 진행. 내 계정의 repo를 encore-playdata의 repo로 pull request하기)
 
 #### 우선 아래 url을 참고해 1 ~ 4번 단계를 진행해주세요.
 https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 <br/>
-#### 5 ~ 7번 단계는 아래 설명을 따라 진행하시면 됩니다. 
+#### 5 ~ 7번 단계는 아래 설명을 따라 진행하면 됩니다. 
 <br/><br/>
 
 
 # [5. 퀴즈 가져오기] <br/>
-▶ encore-playdata의 repo를 내 계정으로 Clone하기
+▶ encore-playdata의 repo를 내 계정으로 fork하고 이후 로컬환경으로 clone하기
 
 #### 1. Github 회원가입을 아직 하지 않은 분들은 우측 상단에서 회원가입을 먼저 해주세요. 
 <br/><br/>
