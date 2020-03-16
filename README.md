@@ -6,9 +6,9 @@
 2. PyCharm 설치(IDE)
 3. Git 설치
 4. GitHub 회원 가입
-5. 퀴즈 가져오기 (encore-playdata의 repo를 내 계정으로 fork하고 이후 로컬환경으로 clone하기)
-6. repo에 변동사항 업데이트하기 (로컬환경의 변동사항을 내 계정의 repo로 push하기)
-7. 퀴즈 제출하기 (내 계정의 repo를 encore-playdata의 repo로 pull request하기 -> 퀴즈를 모두 풀고 진행하세요)
+5. 퀴즈 가져오기
+6. 퀴즈 푸는 도중에 변동사항 업데이트하기
+7. 퀴즈 제출하기
 
 #### 우선 아래 url을 참고해 1 ~ 4번 단계를 진행해주세요.
 https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
