@@ -7,8 +7,8 @@
 3. Git 설치
 4. GitHub 회원 가입
 5. 퀴즈 가져오기 (encore-playdata의 repo를 내 계정으로 fork하고 이후 로컬환경으로 clone하기)
-6. 퀴즈 변동사항 저장하기 (변동사항을 내 계정의 repo로 push하기)
-7. 퀴즈 제출하기 (퀴즈를 모두 풀고 진행. 내 계정의 repo를 encore-playdata의 repo로 pull request하기)
+6. repo에 변동사항 업데이트하기 (로컬환경의 변동사항을 내 계정의 repo로 push하기)
+7. 퀴즈 제출하기 (내 계정의 repo를 encore-playdata의 repo로 pull request하기 -> 퀴즈를 모두 풀고 진행하세요)
 
 #### 우선 아래 url을 참고해 1 ~ 4번 단계를 진행해주세요.
 https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
@@ -20,28 +20,25 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 # [5. 퀴즈 가져오기] <br/>
 ▶ encore-playdata의 repo를 내 계정으로 fork하고 이후 로컬환경으로 clone하기
 
-#### 1. Github 회원가입을 아직 하지 않은 분들은 우측 상단에서 회원가입을 먼저 해주세요. 
-<br/><br/>
-
-#### 2. 우측상단의 'Fork' 버튼을 클릭해주세요.
+#### 1. encore-playdata 계정의 pre-education repo로 이동한 후 우측상단의 'Fork' 버튼을 클릭해주세요.
 ![Fork](images/fork.PNG)
 <br/><br/>
 
-#### 3. 'Fork' 버튼을 클릭하면 플레이데이터의 repository를 내 repository로 가져올 수 있습니다.
+#### 2. 'Fork' 버튼을 클릭하면 encore-playdata의 repository를 내 repository로 가져올 수 있습니다.
 ![Start](images/start.PNG)
 <br/><br/>
 
-#### 4. 이제 플레이데이터의 프로젝트를 내 로컬환경으로 clone하겠습니다.
+#### 3. 이제 fork한 repo를 내 로컬환경으로 clone하겠습니다.
 우측에 'clone or download' 초록색 버튼을 클릭하고 주소를 복사합니다. 
 
 ![Clone](images/cloning.PNG)
 <br/><br/>
 
-#### 5. 로컬 환경으로 돌아가 git Bash(terminal)를 실행합니다. 
+#### 4. 로컬 환경으로 돌아가 Git Bash(terminal)를 실행합니다. 
 ![Gitbash](images/gitbash.png)
 <br/><br/>
 
-#### 6. git Bash(terminal)에서 명어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다. (**아래 순서대로 진행한 후 퀴즈 답안을 제출할 때까지 Git Bash를 끄지말고 진행해주세요! 중간에 끄시면 6번의 순서를 다시 진행하셔야 합니다.)
+#### 5. Git Bash(terminal)에서 명령어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다. (**아래 순서대로 진행한 후 퀴즈 답안을 제출할 때까지 Git Bash를 끄지말고 진행해주세요!)
 
 - 첫번째, 바탕화면으로 이동하기 (cd 이동하고싶은폴더명)
      <blockquote> cd desktop </blockquote>
@@ -52,21 +49,22 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 - 세번째, 생성한 폴더로 이동하기
      <blockquote> cd playdata </blockquote>
 
-- 네번째, 내 컴퓨터에 github에 있는 파일을 복사하기 (주소는 과제 가져오기 4번에서 복사한 주소를 사용합니다)
+- 네번째, 내 컴퓨터에 github에 있는 파일을 복사하기 (주소는 과제 가져오기 3번에서 복사한 주소를 사용합니다)
      <blockquote> git clone 복사한 주소 </blockquote>
 
 - 다섯번째, 복사된 폴더로 들어가기
-     <blockquote> cd 202003_ai </blockquote>
+     <blockquote> cd pre-education </blockquote>
 
-- 여섯번째, 이메일과 이름 
-     <blockquote> git config --global user.email "내 이메일작성" </blockquote>
+- 여섯번째, 이메일과 이름 설정하기
+     헷갈리지 않게 GitHub 계정에 사용한 계정명과 이메일을 사용해주세요.
      <blockquote> git config --global user.name "내 이름작성" </blockquote>
+     <blockquote> git config --global user.email "내 이메일작성" </blockquote>
 ![setting](images/setting.png)    
 <br/><br/><br/><br/>
 
 
-# [6. 퀴즈 변동사항 저장하기] <br/> 
-▶ 내 계정의 repo로 변동사항 push하기
+# [6. repo에 변동사항 업데이트하기] <br/> 
+▶ 로컬환경의 변동사항을 내 계정의 repo로 push하기
 
 #### 먼저 Git에 대해 간단히 알아보겠습니다.
 #### 깃은 아래와 같은 흐름으로 이루어져 있습니다.
@@ -79,15 +77,15 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 
 <br/>
 
-- 정리하면 github에 업로드하기 위해서는 add -> commit -> push 순서로 진행하고,
-- 반대로 github 내용을 가져오기 위해서는 clone이나 pull 등을 이용합니다.
+- 정리하면 GitHub에 업로드하기 위해서는 add -> commit -> push 순서로 진행하고,
+- 반대로 GitHub 내용을 가져오기 위해서는 clone이나 pull 등을 이용합니다.
 
 <br/>
 
 - 아직은 무슨말인지 잘 이해가 안가실텐데요, 아래 적혀있는대로 따라해보면서 간단하게 사용법만 익히셔도 좋습니다.
-- git이 무엇인지, 기본용어는 무엇이 있는지, https://nolboo.kim/blog/2013/10/06/github-for-beginner/ 이 링크에서 확인해주세요.
-- git을 좀 더 깊이 사용하고 싶다면 https://www.opentutorials.org/course/2708 이곳에서 공부하셔도 좋습니다.
-- 나중에 git 사용법은 특강이 있을 예정이니 너무 걱정마세요!
+- Git이 무엇인지, 기본용어는 무엇이 있는지, https://nolboo.kim/blog/2013/10/06/github-for-beginner/ 이 링크에서 확인해주세요.
+- Git을 좀 더 깊이 사용하고 싶다면 https://www.opentutorials.org/course/2708 이곳에서 공부하셔도 좋습니다.
+- 나중에 Git 사용법은 특강이 있을 예정이니 너무 걱정마세요!
 
 <br/>
 
@@ -146,7 +144,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 
 
 # [7. 퀴즈 제출하기]  <br/>
-▶ 퀴즈를 풀고 encore-playdata의 repo에 pull request하기
+▶ 내 계정의 repo를 encore-playdata의 repo로 pull request하기 -> 퀴즈를 모두 풀고 진행하세요
 
 #### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다.
 ![pull_request](images/pull_request.png)
@@ -161,4 +159,4 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 
 ## 여기까지 문제없이 잘 하셨다면, 퀴즈 제출 완료!
 ## 이제 동일한 방법으로 다음 퀴즈를 풀고 제출해주시면 됩니다.
-### 참 쉽죠?
+## 참 쉽죠?
