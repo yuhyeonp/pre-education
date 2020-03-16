@@ -4,8 +4,8 @@
 ##### 진행 순서는 다음과 같습니다.
 1. python 설치
 2. pycharm(IDE) 설치
-3. git 설치
-4. github 회원 가입
+3. Git 설치
+4. GitHub 회원 가입
 5. 퀴즈 가져오기 (encore-playdata의 repo를 내 계정으로 Clone하기)
 6. 퀴즈 변동사항 저장하기 (내 계정의 repo로 변동사항 push하기)
 7. 퀴즈 제출하기 (퀴즈를 모두 풀고 encore-playdata의 repo에 pull request하기)
