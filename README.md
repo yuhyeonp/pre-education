@@ -1,4 +1,4 @@
-# 안녕하세요 플레이데이터입니다😁
+# 안녕하세요! 플레이데이터입니다😁
 
 #### 플레이데이터 취업교육과정 수강생 여러분의 사전교육을 위한 repository(=repo)입니다.
 #### 진행 순서는 다음과 같습니다.
@@ -49,7 +49,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 - 세번째, 생성한 폴더로 이동하기
      <blockquote> cd playdata </blockquote>
 
-- 네번째, 내 컴퓨터에 github에 있는 파일을 복사하기 (주소는 과제 가져오기 3번에서 복사한 주소를 사용합니다)
+- 네번째, 내 컴퓨터에 github에 있는 파일을 복사하기 (주소는 상단에 있는 3번 설명에서 복사한 주소를 사용합니다)
      <blockquote> git clone 복사한 주소 </blockquote>
 
 - 다섯번째, 복사된 폴더로 들어가기
