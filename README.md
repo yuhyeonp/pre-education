@@ -102,22 +102,20 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 
 #### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 작성한 퀴즈 답안을 업로드 해보겠습니다.
 
-- 첫번째, 먼저 내가 수정한 파일을 add 합니다.
-git add 파일명 또는 git add * 를 입력합니다. '*'는 수정한 파일 전체를 한 번에 add 할 수 있습니다.
+##### 첫번째, 먼저 내가 수정한 파일을 add 합니다.
+- git add 파일명 또는 git add * 를 입력합니다. '*'는 수정한 파일 전체를 한 번에 add 할 수 있습니다.
 
-- 두번째, 다시 한 번 git status로 로컬저장소의 상태를 확인해봅니다.
+##### 두번째, 다시 한 번 git status로 로컬저장소의 상태를 확인해봅니다.
 ![git_add](images/git_add.png)
 <br/>
 
-- 세번째, 다음은 modified된 파일을 commit하여 local repository에 기록하겠습니다. 그 다음은 내 온라인 github에 push 합니다.
-<br/>
+##### 세번째, 다음은 modified된 파일을 commit하여 local repository에 기록하겠습니다. 그 다음은 내 온라인 github에 push 합니다.
 - git commit -m "answer_quiz_01" commit 메세지는 왼쪽처럼 "answer_quiz_퀴즈번호"로 기재해줍니다.
-<br/>
 - git push origin master
 ![commit_push](images/commit_push.png)
 <br/>
 
-- 네번째, 내 GitHub로 가서 repository에 업데이트 된 내역을 확인해보세요.
+##### 네번째, 내 GitHub로 가서 repository에 업데이트 된 내역을 확인해보세요.
 
 <br/>
 <br/>
