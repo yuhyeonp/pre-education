@@ -90,7 +90,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 <br/>
 
 #### 1. 우선 pycharm을 키고 open을 클릭한 후, C:\Users\자신의컴퓨터명\Desktop\playdata ok 버튼을 클릭합니다.
-![open](images/oepn.png)
+![open](images/open.png)
 
 #### 2. 왼쪽 폴더 리스트에서 quiz 폴더를 찾습니다. 풀고 싶은 퀴즈를 더블클릭 합니다. 다 푼 뒤에는 ctrl+S를 눌러 저장합니다.
 ![open_quiz](images/open_quiz.png)
