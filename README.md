@@ -109,21 +109,18 @@ git add 파일명 또는 git add * 를 입력합니다. '*'는 수정한 파일 
 ![git_add](images/git_add.png)
 <br/>
 
-- 세번째, 다음은 index된 파일을 commit하여 local repository에 기록하겠습니다.
+- 세번째, 다음은 modified된 파일을 commit하여 local repository에 기록하겠습니다.
+git commit -m "answer_quiz_01" commit 메세지는 왼쪽처럼 "answer_quiz_퀴즈번호"로 기재해줍니다.
 ![cap8](images/cap8.PNG)
 <br/>
 
-- 네번째, 여기까지 잘 오셨다면, 이제 내 온라인 github에 한번 업로드해보겠습니다.
+- 네번째, 여기까지 잘 오셨다면, 이제 내 온라인 github에 push 합니다.
+git push origin master
 ![push](images/push.PNG)
 <br/>
 
 - 다섯번째, 내 GitHub로 가서 repository에 업데이트 된 내역을 확인해보세요.
 
-![your_reposi](images/your_reposi.PNG)
-
-![myfolder](images/myfolder.PNG)
-
-![upload](images/upload.PNG)
 <br/>
 <br/>
 <br/><br/>
