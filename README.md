@@ -18,7 +18,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 
 
 # [5. 퀴즈 가져오기] <br/>
-###### encore-playdata의 repo를 내 계정으로 fork하고 이후 로컬환경으로 clone하기
+###### encore-playdata의 repository(=repo)를 내 계정으로 fork하고 이후 로컬환경으로 clone하기
 
 #### 1. encore-playdata 계정의 pre-education repo로 이동한 후 우측상단의 'Fork' 버튼을 클릭해주세요.
 ![fork_pre_education](images/fork_pre_education.png)
