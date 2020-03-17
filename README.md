@@ -104,7 +104,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 #### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 작성한 퀴즈 답안을 업로드 해보겠습니다.
 
 - 첫번째, 내가 수정한 파일을 add 하겠습니다. git add 파일명 또는 git add * 를 입력합니다. 
-     <blockquote> '*'는 수정한 파일 전체를 한 번에 add 할 수 있습니다. </blockquote>
+     <blockquote> * 는 수정한 파일 전체를 한 번에 add 할 수 있습니다. </blockquote>
 <br/>
 
 - 두번째, 다시 한 번 git status로 로컬저장소의 상태를 확인해봅니다.
