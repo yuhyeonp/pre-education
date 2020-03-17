@@ -21,17 +21,17 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 ###### encore-playdata의 repo를 내 계정으로 fork하고 이후 로컬환경으로 clone하기
 
 #### 1. encore-playdata 계정의 pre-education repo로 이동한 후 우측상단의 'Fork' 버튼을 클릭해주세요.
-![Fork](images/fork.PNG)
+![Fork](images/fork_pre_education.PNG)
 <br/><br/>
 
 #### 2. 'Fork' 버튼을 클릭하면 encore-playdata의 repository를 내 repository로 가져올 수 있습니다.
-![Start](images/start.PNG)
+![Start](images/clone.PNG)
 <br/><br/>
 
 #### 3. 이제 fork한 repo를 내 로컬환경으로 clone하겠습니다.
 우측에 'clone or download' 초록색 버튼을 클릭하고 주소를 복사합니다. 
 
-![Clone](images/cloning.PNG)
+![Clone](images/clone_copy.PNG)
 <br/><br/>
 
 #### 4. 로컬 환경으로 돌아가 Git Bash(terminal)를 실행합니다. 
@@ -90,35 +90,23 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 <br/>
 
 #### 1. 우선 pycharm을 키고 open을 클릭한 후, C:\Users\자신의컴퓨터명\Desktop\playdata ok 버튼을 클릭합니다.
-![open](images/cap1.PNG)
+![open](images/oepn.PNG)
 
-#### 2. 왼쪽 폴더 리스트에서 자신의 이름 폴더를 찾습니다. 이름 폴더에서 마우스 우클릭을 하여 New -> Python File을 클릭합니다.
-![folderlist1](images/cap2.PNG)
+#### 2. 왼쪽 폴더 리스트에서 quiz 폴더를 찾습니다. 풀고 싶은 퀴즈를 더블클릭 합니다. 다 푼 뒤에는 ctrl+S를 눌러 저장합니다.
+![folderlist1](images/open_quiz.PNG)
 
-#### 3. 먼저, pycharm으로 gitTest.py를 만들어 저장합니다. 이때 파일명(gitTest)은 퀴즈명과 번호를 지정하여 저장해줍니다.
-![cap3](images/cap3.PNG)
-![cap4](images/cap4.PNG)
-<br/>
-
-#### 4. gitTest.py에는 다음과 같이 입력 후 저장(ctrl+s)합니다.
-![cap5](images/cap5.PNG)
-<blockquote> print("hello github!") </blockquote>
-<br/>
-
-#### 5. 다시 Git Bash로 가보겠습니다. gitTest.py가 있는 폴더에서 "git status"를 입력합니다.
-![cap6](images/cap6.png)
-- cd 자신의이름 폴더명
+#### 3. 다시 Git Bash로 가보겠습니다. pre-education 폴더 위치에서 "git status"를 입력합니다. 수정된 내용이 있으면 빨간 네모박스처럼 표기됩니다.
+![cap6](images/git_status.png)
 - git status 명령어는 로컬저장소의 상태를 확인할 수 있습니다.
 <br/>
 
-#### 6. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 작성한 퀴즈 답안을 업로드 해보겠습니다.
+#### 4. 자, 그럼 위에서 이야기한대로 add -> commit -> push 순으로 내 github에 작성한 퀴즈 답안을 업로드 해보겠습니다.
 
-- 첫번째, 먼저 내가 만든 파일을 index 하겠습니다.
-![cap7](images/cap7.PNG)
-<br/>
+- 첫번째, 먼저 내가 수정한 파일을 add 합니다.
+git add 파일명 또는 git add * 를 입력합니다. '*'는 수정한 파일 전체를 한 번에 add 할 수 있습니다.
 
 - 두번째, 다시 한 번 git status로 로컬저장소의 상태를 확인해봅니다.
-![cap10](images/cap10.PNG)
+![cap10](images/git_add.PNG)
 <br/>
 
 - 세번째, 다음은 index된 파일을 commit하여 local repository에 기록하겠습니다.
@@ -132,8 +120,6 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 - 다섯번째, 내 GitHub로 가서 repository에 업데이트 된 내역을 확인해보세요.
 
 ![your_reposi](images/your_reposi.PNG)
-
-![202003_ai](images/202003_ai.PNG)
 
 ![myfolder](images/myfolder.PNG)
 
