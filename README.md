@@ -96,7 +96,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 ![open_quiz](images/open_quiz.png)
 
 #### 3. 다시 Git Bash로 가보겠습니다. pre-education 폴더 위치에서 "git status"를 입력합니다. 수정된 내용이 있으면 빨간 네모박스처럼 표기됩니다.
-     <blockquote> git status 명령어는 로컬저장소의 상태를 확인할 수 있습니다. </blockquote>
+- git status 명령어는 로컬저장소의 상태를 확인할 수 있습니다.
 ![git_status](images/git_status.png)
 <br/>
 
