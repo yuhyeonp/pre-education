@@ -114,7 +114,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 
 - 세번째, 다음은 modified된 파일을 commit하여 local repository에 기록하겠습니다. 그 다음은 내 온라인 github에 push 합니다.
      <blockquote> git commit -m "Answer quiz 01" </blockquote>
-     <blockquote> commit 메세지는 위처럼 "Answer quiz 퀴즈번호"로 기재해줍니다. </blockquote>
+     <blockquote> commit 메세지의 convention은 슬랙 study 채널을 참고해주세요 </blockquote>
      <blockquote> git push origin master </blockquote>
 
 ![git_commit](images/git_commit.png)
